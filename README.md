@@ -4,6 +4,7 @@ Created on Wed Jan 22 10:00:15 2020
 
 @author: Erik
 """
+`
 score1=0
 active_score = 0
 def Yatzi(dice):
@@ -124,4 +125,4 @@ while True:
                 q4 = int(input('Enter what you want: \n 1. \n 2. \n 3. \n 4. \n 5. \n 6. \n 7. \n 8.'))
             #victory cheking comes here
       
-        
+    `
